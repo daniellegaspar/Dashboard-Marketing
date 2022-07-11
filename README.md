@@ -1,6 +1,6 @@
 # Marketing Analytics
 
-#### Dashboard de Análise de Tráfego Pago do Facebook e Google 
+## Dashboard de Análise de Tráfego Pago do Facebook e Google 
 
 • Cenário: A empresa fictícia Beauty Shop vende cosméticos e possui um grande e-commerce (loja online). 
 
@@ -18,7 +18,7 @@ Além disso, não existe uma visão centralizada do resultado geral, avaliando a
 
 
 
-** • Objetivos principais deste dashboard: **
+## • Objetivos principais deste dashboard: 
 
 -Acompanhar o spend (R$) e CPC (Custo Por Clique) ao longo do tempo - tanto para o Facebook ADS, quanto para o Google ADS.
 
@@ -30,10 +30,10 @@ Além disso, não existe uma visão centralizada do resultado geral, avaliando a
 -Como está o funil de conversão de leads por etapa do processo de conversão (Impressões, Alcances, Cliques e Vendas)
 
 
-## CAPA
+### CAPA
 ![capa-dashboard](https://user-images.githubusercontent.com/86385596/178377248-f901a0ea-1ffe-4be7-8d92-64d31219da4b.png)
 
-## PAINEL
+### PAINEL
 ![painel-marketing](https://user-images.githubusercontent.com/86385596/178377258-b1e7ca7e-486c-44fb-ae82-2efa565d298c.png)
 
 
@@ -41,7 +41,7 @@ Além disso, não existe uma visão centralizada do resultado geral, avaliando a
 
 
 
-### • Processos Realizados:
+## • Processos Realizados:
 
 Entendimento do problema de negócio;
 
@@ -51,7 +51,13 @@ Tratamento dos dados no Power Query;
 
 Construção do painel;
 
-Construir o background. Utilizei o Figma
+Construir o background. Utilizei o Figma.
 
 
-*Dashboard construído na Imersão gratuita em Power BI - Letícia Smirelli*
+
+## Tecnologia Utilizada 🚀:
+
+Power BI
+
+
+###### *Dashboard construído na Imersão gratuita em Power BI - Letícia Smirelli*
